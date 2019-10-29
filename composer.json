@@ -1,17 +1,17 @@
 {
-    "name": "wearejust/laravel-amp",
+    "name": "fcaivano/laravel-amp",
     "description": "Package that helps you set up AMP (Accelerated Mobile Pages) using Laravel",
     "keywords": [
-        "wearejust",
+        "fcaivano",
         "laravel-amp"
     ],
-    "homepage": "https://github.com/wearejust/amp",
+    "homepage": "https://franciscocaivano.com",
     "license": "MIT",
     "authors": [
         {
-            "name": ":Cees van Egmond",
-            "email": "cees.vanegmond@wearejust.com",
-            "homepage": "https://wearejust.com",
+            "name": ":Francisco Caivano",
+            "email": "hola@franciscocaivano.com",
+            "homepage": "https://franciscocaivano.com",
             "role": "Developer"
         }
     ],
